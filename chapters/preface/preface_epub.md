@@ -50,7 +50,7 @@ ca, reserved under the act approved<br />
 March 3.1905 by UIlstein & Co. Berlin<br />
 ::::
 
-:::: {.wrap-90 .break-after }
+:::: {.wrap-70 .break-after }
 ![Der erste Streckenplan zur Fahrt um die Welt im Pariser "Matin".](Im_Auto_um_die_Welt_000.jpg ""){#b000}
 ::::
 

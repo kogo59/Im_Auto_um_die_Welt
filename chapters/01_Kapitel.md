@@ -48,9 +48,9 @@ haben die letzteren ohne besondere Vorbereitungen stets recht gut abgeschnitten.
 
 Aber die Idee zu dieser außerordentlichen Autotour fassen und den Entschluß
 ausführen waren in diesem Falle mehr als sonst recht verschiedene Dinge. Ich war
-kein Fürst Borghese^[^0101]^, der sich „Peking — Paris“^[^0102]^ so aus dem Aermel geschüttelt
+kein Fürst Borghese^[^0101]^, der sich „Peking—Paris“^[^0102]^ so aus dem Aermel geschüttelt
 hatte. Das Barzinische^[^0103]^ Buch über diese Fahrt hatte ich übrigens kurz vor der
-Matin-Ausschreibung „New York — Paris“ gelesen und habe wohl auch hierdurch
+Matin-Ausschreibung „New York—Paris“ gelesen und habe wohl auch hierdurch
 Anregungen für den Wunsch empfangen, bei einer ähnlichen Veranstaltung dabei zu
 sein. Jedenfalls habe ich aus der aufmerksamen Lektüre dieses interessanten
 Werkes für meine spätere Fahrt durch Sibirien manchen Fingerzeig gewonnen.
@@ -59,13 +59,13 @@ Werkes für meine spätere Fahrt durch Sibirien manchen Fingerzeig gewonnen.
 ![Vor der Abfahrt des Protos-Wagen vom Verlagshause der „B. Z. am Mittag“ in Berlin am 26. Januar 1908 um 8 Uhr früh.](Im_Auto_um_die_Welt_003.jpg "Vor der Abfahrt des Protos-Wagend vom Verlagshause der „B. Z. am Mittag“ in Berlin am 26. Januar 1908 um 8 Uhr früh."){#b003}
 ::::
 
-Freilich lagen bei „New York — Paris“ mit der Durchquerung Alaskas nnd der
+Freilich lagen bei „New York—Paris“ mit der Durchquerung Alaskas nnd der
 Beringstraße die klimatischen und sportlichen Verhältnisse wesentlich anders als
-bei „Peking — Paris“. Während dessen Trace sich fast durchweg auf den gleichen
+bei „Peking—Paris“. Während dessen Trace sich fast durchweg auf den gleichen
 Breitengraden bewegte, sollte hier nach der Durchquerung Nordamerikas zwischen
 dem 40. und 15. Breitengrad bis in die polaren Gegenden, bis zum 72. Grad
 nördlicher Breite vorgedrungen werden, um dann bei dem sibirischen Irkutsk auf
-die gleiche Route wie bei „Peking Paris“ zu treffen, die in Asien und Europa
+die gleiche Route wie bei „Peking—Paris“ zu treffen, die in Asien und Europa
 zwischen dem 50. und 60. Breitengrad verläuft.
 
 Die nächstliegende Frage, über die ich mir klar werden mußte, war also die
@@ -211,7 +211,7 @@ interessanten Sportsache zu ihm, sah er mich groß an und sagte:
 
 „Als Sie heute früh anklingelten, habe ich mir eine ganze Weile den Kopf
 zerbrochen, was Sie von mir wohl wollten. Jetzt, wie Sie so vor mir stehen, weiß
-ich's: Sie wollen New York — Paris fahren!“
+ich's: Sie wollen New York—Paris fahren!“
 
 Ich konnte nicht leugnen, und Herr Ullstein meinte, das wäre sicherlich
 hochinteressant, aber doch wohl kaum durchführbar.
@@ -409,6 +409,10 @@ Und frohes Wiedersehen?
 Das stand für uns da oben irgendwo! ...
 
 :::
+
+:::: {.wrap-100 }
+![&nbsp;](Im_Auto_um_die_Welt_018.jpg ""){#b018}
+::::
 
 
 #### **Anmerkungen** {.break-before .unnumbered}
