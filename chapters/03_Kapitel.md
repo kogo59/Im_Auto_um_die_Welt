@@ -4,7 +4,7 @@
 
 :::: fs-xs
 Schlechte amerikanische Straßen. — Beginn der Schneeschwierigkeiten. —
-Kettengleitschuz. — Im Mitteltreffen. — Auf dem Treidelsteg am Eriekanal. —
+Kettengleitschutz. — Im Mitteltreffen. — Auf dem Treidelsteg am Eriekanal. —
 Erleichterung des Wagens. — Der erste Reifendefekt. — Durch Schnee und Sumpf
 nach Buffalo. — Im Acker eingesunken. — Das erste Opfer der Fahrt.
 <br /><br />
@@ -374,6 +374,10 @@ Formen als bisher annehmen könnten.
 Noch vor Chicago sollten wir tatsächlich nicht unser blaues, sondern unser
 weißes, schneeweißes Wunder erleben, einen Blizzard von solcher Heftigkeit, wie
 ihn die ältesten Leute in diesen Gegenden noch nicht erlebt hatten.
+
+:::: {.wrap-100 }
+![&nbsp;](Im_Auto_um_die_Welt_052.jpg ""){#b052}
+::::
 
 :::
 
