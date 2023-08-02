@@ -461,6 +461,10 @@ aller Energie und Ausdauer wie ein scharfes, ungewisses, alle Nerven
 anspannendes Gefecht mit gleichwertigen Gegnern zu einem glücklichen Ausgang
 geführt werden konnte.
 
+:::: {.wrap-100 }
+![Karikatur auf die New York—Paris-Fahrer aus dem amerikanischen Witzblatt „Life“.](Im_Auto_um_die_Welt_034.jpg "Karikatur auf die New York—Paris-Fahrer aus dem amerikanischen Witzblatt „Life“."){#b034}
+::::
+
 :::
 
 #### **Anmerkungen** {.break-before .unnumbered}
