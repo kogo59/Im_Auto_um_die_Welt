@@ -135,7 +135,7 @@ eine Veranda selten sieht man Gärten, niemals einen Park. Das Praktische der
 Gelderwerb, scheint auch hier der alleinige Gesichtspunkt zu sein.
 
 :::: {.wrap-80  }
-![Der neue Chauffeur Snyder am Steuer.](Im_Auto_um_die_Welt_095.jpg "Der neue Chauffeur Snyder am Steuer."){#b095}
+![Auf der Fahrt nach dem Westen: Interessierte Zuschauer.](Im_Auto_um_die_Welt_101.jpg "Auf der Fahrt nach dem Westen: Interessierte Zuschauer."){#b101}
 ::::
 
 Wie alles in Amerika, wird auch die Landwirtschaft in großen betrieben.
