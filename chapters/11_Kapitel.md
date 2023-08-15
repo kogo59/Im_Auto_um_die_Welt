@@ -437,7 +437,6 @@ Gattin, ebenfalls einer Deutschen, sich in dankens- wertester Weise meiner
 annahm. Ihnen, sowie dem Gouverneur, dem ich zu besonderem Dank verpflichtet
 war, galt mein herzlichstes Lebewohl.
 
-
 Am Freitag, 22. Mai, morgens war alles klar an Deck. Derselbe regnerische, kalte
 Himmel, der uns hier schon so viel gelangweilt hatte, wollte uns auch den
 Abschied leicht machen.
