@@ -513,6 +513,11 @@ Und um so lieber machten wir in Charbin einen Tag Rast, als hier unser
 Rittmeister von Albrecht zu Hause war und mit seiner Schwester ein freundliches
 Heim bewohnte, in dem wir sehr herzlich aufgenommene Gäste waren.
 
+:::: {.wrap-100 }
+![Unsere liebenswürdigen Gastgeber in Imenpo.](Im_Auto_um_die_Welt_198.jpg "Unsere liebenswürdigen Gastgeber in Imenpo."){#b198}
+::::
+
+
 :::
 
 
