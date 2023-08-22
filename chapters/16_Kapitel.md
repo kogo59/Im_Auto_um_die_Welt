@@ -410,7 +410,6 @@ veritabler Höllengeist befunden habe...
 
 :::
 
-
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^1601]: [*Kotzebue*: vergleiche [August von Kotzebue](https://de.wikipedia.org/wiki/Peking_nach_Paris)]{.footnote}

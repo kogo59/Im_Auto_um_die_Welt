@@ -22,5 +22,5 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Im Auto um die Welt. [[rcin.org.pl](https://rcin.org.pl/dlibra/publication/140696/edition/118065)
+Im Auto um die Welt. [rcin.org.pl](https://rcin.org.pl/dlibra/publication/140696/edition/118065)
 
