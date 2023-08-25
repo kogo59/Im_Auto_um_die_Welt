@@ -314,7 +314,7 @@ treuer Staatsdiener und ergeben allen Ministern und Exzellenzen, aber ich kenne
 meine Pflicht, ein Formular, mehr gibt es nicht!
 
 :::: {.wrap-100 }
-![Vor der Abfahrt von der Protos-Garage in Moskau.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuchs. Neuberger. Dr. Donalies. Koeppen.](Im_Auto_um_die_Welt_299.jpg "Vor der Abfahrt von der Protos-Garage in Moskau.."){#b299}
+![Vor der Abfahrt von der Protos-Garage in Moskau.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuchs. Neuberger. Dr. Donalies. Koeppen.](Im_Auto_um_die_Welt_299.jpg "Vor der Abfahrt von der Protos-Garage in Moskau."){#b299}
 ::::
 
 Was half's? Wir zogen das lange Telegramm in ein kurzes zusammen, wie es der
@@ -417,8 +417,6 @@ unsere Reise sobald wie möglich zu einem guten Ende zu führen.
 :::: {.wrap-60 }
 ![<small>Der deutsche Wagen im Schloßhof von Gatschina.</small> **Aufgenommen von Ihrer Majestät der Kaiserin-Mutter Maria Feodorowna von Rußland.**](Im_Auto_um_die_Welt_305.jpg "<small>Der deutsche Wagen im Schloßhof von Gatschina.</small> **Aufgenommen von Ihrer Majestät der Kaiserin-Mutter Maria Feodorowna von Rußland.**"){#b305}
 ::::
-
-
 
 :::
 
