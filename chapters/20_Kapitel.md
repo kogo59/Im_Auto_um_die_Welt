@@ -4,7 +4,7 @@
 :::: fs-xs 
 Unter Geleit von Eydtkuhnen nach Königsberg und Elbing. — Beinahe verfahren. —
 Filehne statt Landsberg. — Die deutschen Landsleute. — Die Panne vor den Toren.
-— — Empfang in Müncheberg. — Einfahrt in die Reichshauptstadt. — Im Verlag
+— Empfang in Müncheberg. — Einfahrt in die Reichshauptstadt. — Im Verlag
 Ullstein. — Der Kaiserliche Automobilklub als Wirt. — Abfahrt nach Potsdam. <br
 /><br /> 
 ::::
