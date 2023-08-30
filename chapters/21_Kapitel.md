@@ -218,9 +218,6 @@ aber nun noch bleiben, wo er war, und wir setzten die Reise wieder allein und
 ohne die Befürchtung fort, noch einmal einen New York—Paris-Wagen vor uns zu
 haben ...
 
-:::: {.wrap-100 }
-![Der deutsche Wagen als Erster in Paris: Fahrt über die Boulevards zum Hause des „Matin“.](Im_Auto_um_die_Welt_339.jpg "Der deutsche Wagen als Erster in Paris: Fahrt über die Boulevards zum Hause des „Matin“."){#b339}
-::::
 
 Sehr bald kamen wir an die belgisch-französische Grenze die uns nur fünf Minuten
 aufhielt und wo wir eine Steuer von ganzen 50 Centimes für unseren Wagen zu

@@ -391,4 +391,4 @@ ihn die ältesten Leute in diesen Gegenden noch nicht erlebt hatten.
 
 [^0304]: [*Motobloc*: vergleiche [Automobiles Motobloc](https://de.wikipedia.org/wiki/Motobloc)]{.footnote}
 
-[^0305]: [*Sizaire & Naudin*: vergleiche [Sizaire-Naudin](hhttps://de.wikipedia.org/wiki/Sizaire-Naudin)]{.footnote}
+[^0305]: [*Sizaire & Naudin*: vergleiche [Sizaire-Naudin](https://de.wikipedia.org/wiki/Sizaire-Naudin)]{.footnote}

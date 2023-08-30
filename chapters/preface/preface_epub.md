@@ -33,7 +33,7 @@ Mit 177 Abbildungen und 9 Karten
 ::::
 
 :::: {.wrap-20 .align-center .break-after }
-![&nbsp;](logo.jpg ""){#b000}
+![&nbsp;](logo.jpg ""){#b002}
 ::::
 
 :::: { .fs-xs .align-center .break-after }
