@@ -1,6 +1,6 @@
 # Im Auto um die Welt.
 
-<img align="right" height="150" src="https://github.com/kogo59/Im_Auto_um_die_Welt/assets/13177792/fbe5248b-18c5-4b6c-bbb6-cb00d1c2ff22">
+<img align="right" height="150" src="https://github.com/kogo59/Im_Auto_um_die_Welt/assets/13177792/1653b3e4-ce26-4c8d-9848-f64e6e55c41e">
 
 This is a git repository of the source files for the book "Im Auto um die Welt.".
 
