@@ -289,4 +289,3 @@ damit der Vergangenheit. ....
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

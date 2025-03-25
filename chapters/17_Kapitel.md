@@ -301,4 +301,3 @@ eingetroffen!“
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

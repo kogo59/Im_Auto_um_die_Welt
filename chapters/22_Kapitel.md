@@ -329,4 +329,3 @@ Ich komme mit!
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

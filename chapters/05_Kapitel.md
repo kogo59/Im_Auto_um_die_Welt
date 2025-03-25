@@ -454,7 +454,6 @@ Lösung geradezu die ganze Weiterfahrt abhing.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0501]: [*Georges Scott*: vergleiche [Georges Scott](https://en.wikipedia.org/wiki/Georges_Scott)]{.footnote}
 

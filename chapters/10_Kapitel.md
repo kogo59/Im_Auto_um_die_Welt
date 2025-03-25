@@ -505,5 +505,3 @@ Dann fuhren wir dem offenen Meer und der offenen Zukunft entgegen.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

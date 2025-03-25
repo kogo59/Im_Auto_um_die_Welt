@@ -420,4 +420,3 @@ unsere Reise sobald wie möglich zu einem guten Ende zu führen.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

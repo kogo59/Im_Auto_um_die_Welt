@@ -349,7 +349,6 @@ keinerlei dauerndes Gefälle aufwies.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1901]: [*Maria Feodorowna*: vergleiche [Dagmar von Dänemark (1847–1928)](https://de.wikipedia.org/wiki/Dagmar_von_D%C3%A4nemark_(1847%E2%80%931928))]{.footnote}
 

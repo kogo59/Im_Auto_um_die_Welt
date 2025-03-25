@@ -415,8 +415,6 @@ Das stand für uns da oben irgendwo! ...
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0101]: [*Fürst Borghese*: vergleiche [Scipione Borghese, 10th Prince of Sulmona](https://en.wikipedia.org/wiki/Scipione_Borghese,_10th_Prince_of_Sulmona)]{.footnote}
 
 [^0102]: [*Peking-Paris*: vergleiche [Peking nach Paris](https://de.wikipedia.org/wiki/Peking_nach_Paris)]{.footnote}

@@ -441,5 +441,3 @@ am 2. April und damit die letzte große Etappe vor dem Pazifischen Ozean.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

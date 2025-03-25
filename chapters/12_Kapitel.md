@@ -521,6 +521,5 @@ Heim bewohnte, in dem wir sehr herzlich aufgenommene Gäste waren.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1202]: [*Sergius Michailowitsch*: vergleiche [Sergei Michailowitsch Romanow](https://de.wikipedia.org/wiki/Sergei_Michailowitsch_Romanow)]{.footnote}

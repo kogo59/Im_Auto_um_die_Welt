@@ -385,5 +385,4 @@ meinen öfteren doppelten Serviettenbedarf nicht minder.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 

@@ -269,7 +269,6 @@ Landsleute, der mir unvergeßlich im Gedächtnis bleiben wird!
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2001]: [*Komnick-Wagen*: vergleiche [Die Komnickwerke in Elbing](http://www.aefl.de/ordld/Komnick/Neu171204/komnickindex.htm)]{.footnote}
 

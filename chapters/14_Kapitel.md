@@ -377,5 +377,3 @@ würde nun die bittere Notwendigkeit kommen, zu drahten: „Protos von Thomas
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

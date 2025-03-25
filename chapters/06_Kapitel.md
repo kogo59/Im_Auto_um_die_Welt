@@ -330,5 +330,4 @@ Automobilsport erstens alles anders kommt, zweitens wie man denkt.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 

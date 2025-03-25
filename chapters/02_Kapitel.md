@@ -467,7 +467,6 @@ geführt werden konnte.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0201]: [*Generaldirektor Ballin*: vergleiche [Albert Ballin](https://de.wikipedia.org/wiki/Albert_Ballin)]{.footnote}
 

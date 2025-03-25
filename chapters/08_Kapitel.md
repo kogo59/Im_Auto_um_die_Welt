@@ -343,5 +343,3 @@ Ozean und der „Perle des Westens“, dem stolzen San Franzisco.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

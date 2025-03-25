@@ -674,5 +674,3 @@ gewichtiges Wort mit.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

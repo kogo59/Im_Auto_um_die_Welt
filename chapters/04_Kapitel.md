@@ -371,4 +371,3 @@ leidlich gegen meine Konkurrenten abgeschnitten habe.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

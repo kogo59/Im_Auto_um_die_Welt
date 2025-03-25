@@ -548,5 +548,3 @@ Fragen an die Zukunft, auf die diese nur selbst die Antwort geben konnte! ...
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

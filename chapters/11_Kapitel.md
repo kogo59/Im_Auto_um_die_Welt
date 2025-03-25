@@ -459,5 +459,3 @@ Wäldern und Bergen gesehen.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -381,8 +381,6 @@ ihn die ältesten Leute in diesen Gegenden noch nicht erlebt hatten.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0301]: [*de Dion*: vergleiche [De Dion-Bouton](https://de.wikipedia.org/wiki/De_Dion-Bouton)]{.footnote}
 
 [^0302]: [*Züst*: vergleiche [Züst Automobile](https://de.wikipedia.org/wiki/Z%C3%BCst_Automobile)]{.footnote}
